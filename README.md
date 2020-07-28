@@ -14,8 +14,10 @@
   <p style="color:#206a5d">Y siempre algo nuevo!!!</p>
 
 </div>
-   <div style ="background: #1f4068; padding: 10px 2px; display: flex; justify-content: space-evenly"> 
-   <a href="https://www.facebook.com/alejandro.manosalvas"><img src="img/icon-facebook.svg" /><a>
-   <a href="https://twitter.com/stivenmanosalva"><img src="img/icon-twitter.svg" /><a>
-   <a href="https://www.instagram.com/manosalvasstiven/"><img src="img/icon-instagram.svg" /><a>
-</div>
+<code>
+  <div style ="background: #1f4068; padding: 10px 2px; display: flex; justify-content: space-evenly"> 
+     <a href="https://www.facebook.com/alejandro.manosalvas"><img src="https://raw.githubusercontent.com/smanosalvas/smanosalvas/master/img/icon-facebook.svg" /><a>
+     <a href="https://twitter.com/stivenmanosalva"><img src="img/icon-twitter.svg" /><a>
+     <a href="https://www.instagram.com/manosalvasstiven/"><img src="img/icon-instagram.svg" /><a>
+  </div>
+</code>
