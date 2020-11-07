@@ -12,6 +12,6 @@ Desarrollando aplicaciones desde los 16 años, mi primer lenguaje fue **Visual B
 
 ¿Dónde **encontrarme**?
 
-- [Facebook](https://www.facebook.com/alejandro.manosalvas)
-- [Twitter](https://twitter.com/stivenmanosalva)
-- [Instagram](https://www.instagram.com/manosalvasstiven/)
+- [Facebook](https://www.facebook.com/smcodedev)
+- [Twitter](https://twitter.com/smcodedev)
+- [Instagram](https://www.instagram.com/smcodedev/)
